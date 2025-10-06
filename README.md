@@ -71,7 +71,4 @@ urequests.post(URL,
 ).close()
 
 
-## Luento 2 – Weatherstation tarkastelu
-const url =
-  "https://api.thingspeak.com/channels/<CHANNEL_ID>/feeds.json?api_key=<READ_API_KEY>&results=50";
 
